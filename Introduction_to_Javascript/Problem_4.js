@@ -28,7 +28,6 @@ console.log(" ");
 
 console.log("Report Card :");
 
-console.log("Marks of Python -" ,pythonMarks);
-console.log("Marks of JavaScript -" ,javaScriptMarks);
-console.log("Marks of HTMl & CSS -" ,htmlCssMarks);
-
+console.log("Marks of Python - ", pythonMarks);
+console.log("Marks of JavaScript - ", javaScriptMarks);
+console.log("Marks of HTMl & CSS - ", htmlCssMarks);
