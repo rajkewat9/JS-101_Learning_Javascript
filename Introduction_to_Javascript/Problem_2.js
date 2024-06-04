@@ -8,4 +8,4 @@ console.log("My Father Name is" ,Name); // Print to My Father Name
 
 Name = "Amena Malek";
 
-console.log("My Mother Name is" ,Name); // Print to My Father Name
+console.log("My Mother Name is" ,Name); // Print to My Mother Name
